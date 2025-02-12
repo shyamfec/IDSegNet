@@ -1,1 +1,1 @@
-# IDSegNet- An improved  Deep Segmnetation Network  for  Land cover object segmentation from SAR Image
+#  Python code of IDSegNet- An improved  Deep Segmnetation Network  for  Land cover object segmentation from SAR Image, Remote Sensing Applications: Society and Environment (RSASE), Elsevier Publisher. (Submiited) will be updated after acceptance of the paper.   
